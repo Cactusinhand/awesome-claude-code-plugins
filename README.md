@@ -282,6 +282,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [verifying-phd-citations](./plugins/verifying-phd-citations)
 - [thermal-fluid-research-workflow](./plugins/thermal-fluid-research-workflow)
 - [trigger-tree](https://github.com/Hedde/trigger_tree)
+- [githubcard](https://github.com/ghcardhq/skills) - Create GitHub profile and repository card images and add them to README files, using the ghcard CLI.
 
 ### Git Workflow
 - [analyze-issue](./plugins/analyze-issue)
